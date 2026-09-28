@@ -61,13 +61,6 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alaa-dev04&show_icons=true&theme=default&hide_title=false" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alaa-dev04" height="165" />
-</p>
-
----
 
 <p align="center"><i>Open to new frontend opportunities — let's connect!</i></p>
